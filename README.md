@@ -54,7 +54,7 @@ Players must **identify matching pairs within an 8×8 grid before time runs out*
    - ❌ If they **do not match**, they flip back after a short delay.
 
 4. **Beat the Clock**  
-   Match **all 32 pairs before the 60-second timer ends** to win the game. ⏳🏆
+   Match **all 32 pairs before the 120-second timer ends** to win the game. ⏳🏆
 
 
 
